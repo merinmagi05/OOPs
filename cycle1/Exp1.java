@@ -3,7 +3,7 @@ public class Exp1
 	public static void main(String[] args)
 	{
 		System.out.println("Merin Magi Telson");
-		System.out.println("S1MCA");
+		System.out.println("23MCA043");
 		System.out.println("Product");
 		System.out.println("13/02/2024");
 		Product p1=new Product();
